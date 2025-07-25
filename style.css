@@ -396,7 +396,7 @@ button[type="submit"]:hover {
 }
 
 
-@media (max-width: 800px) {
+@media (max-width: 430px) {
 .contact {
   padding: 60px 40px;
   color: #fff;
